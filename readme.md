@@ -1,9 +1,1 @@
-Portfólio com meu resumo.
-
-Alteração teste para commit.
-
-Segunda alteração teste para commit.
-
-Terceira alteração teste para commit.
-
-Quarta alteração teste para commit.
+Portfólio com meu resumo profissional.
